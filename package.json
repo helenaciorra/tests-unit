@@ -1,0 +1,12 @@
+{
+  "name": "tests-unit",
+  "version": "1.0.0",
+  "description": "Unit tests for Open-Meteo data processing utilities",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
